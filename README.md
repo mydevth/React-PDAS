@@ -5,5 +5,4 @@
 #### Tools
 - React Developer Tool
 - CSS Bulma
-
-https://react-stephen-pdas.netlify.app/
+#### Result :  https://react-stephen-pdas.netlify.app/
