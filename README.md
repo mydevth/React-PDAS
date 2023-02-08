@@ -2,4 +2,5 @@
 ## Instructor : Stephen Grider
 Master React and Redux Toolkit. Includes RTK Query, tons of custom hooks
 
-CSS Bulma
+## Tools
+### - CSS Bulma
